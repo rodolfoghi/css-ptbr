@@ -2,6 +2,7 @@
     "name": "css-ptbr",
     "displayName": "CSS em pt-BR",
     "description": "Escreva CSS em português do Brasil",
+    "license": "SEE LICENSE IN LICENSE.md",
     "version": "0.0.3",
     "publisher": "rghiggi",
     "icon": "icon.png",
