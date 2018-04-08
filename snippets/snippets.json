@@ -4,6 +4,11 @@
         "description": "Define a cor de fundo.",
         "prefix": "cor fundo"
     },
+    "black": {
+        "body": "black;",
+        "description": "Cor preta.",
+        "prefix": "preto"
+    },
     "blue": {
         "body": "blue;",
         "description": "Cor azul.",
@@ -39,6 +44,21 @@
         "description": "Define o tamanho da fonte.",
         "prefix": "fonte tamanho"
     },
+    "gray": {
+        "body": "gray;",
+        "description": "Cor cinza.",
+        "prefix": "cinza"
+    },
+    "green": {
+        "body": "green;",
+        "description": "Cor verde.",
+        "prefix": "verde"
+    },
+    "height": {
+        "body": "height:",
+        "description": "Define a altura.",
+        "prefix": "altura"
+    },
     "letter-spacing": {
         "body": "letter-spacing:",
         "description": "Define o espaçamento entre letras.",
@@ -54,10 +74,25 @@
         "description": "Define a margem.",
         "prefix": "margem"
     },
+    "orange": {
+        "body": "orange;",
+        "description": "Cor laranja.",
+        "prefix": "laranja"
+    },
     "padding": {
         "body": "padding:",
         "description": "Define o espaçamento interno.",
         "prefix": "espaço interno"
+    },
+    "pink": {
+        "body": "pink;",
+        "description": "Cor rosa.",
+        "prefix": "rosa"
+    },
+    "position": {
+        "body": "position:",
+        "description": "Define a posicão.",
+        "prefix": "posição"
     },
     "red": {
         "body": "red;",
@@ -74,9 +109,24 @@
         "description": "Define a sombra do texto.",
         "prefix": "texto sombra"
     },
+    "transition": {
+        "body": "transition:",
+        "description": "Define como acontecerá a transição.",
+        "prefix": "transição"
+    },
+    "white": {
+        "body": "white;",
+        "description": "Cor branca.",
+        "prefix": "branco"
+    },
     "width": {
         "body": "width:",
         "description": "Define a largura.",
         "prefix": "largura"
+    },
+    "yellow": {
+        "body": "yellow;",
+        "description": "Cor amarelo.",
+        "prefix": "amarelo"
     }
 }
