@@ -1,7 +1,21 @@
-# Change Log
-All notable changes to the "css-ptbr" extension will be documented in this file.
+# Changelog
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.0.2] - 2018-04-08
+### Added
+- center.
+- display.
+- font-family.
+- font-size.
+- letter-spacing.
+- line-height.
+- margin.
+- padding.
+- text-align.
+- text-shadow.
+- width.
 
-## [Unreleased]
-- Initial release
+### Changed
+- Key values from portuguese to english.
+
+### Removed
+- Nothing.

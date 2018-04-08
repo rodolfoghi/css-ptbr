@@ -1,27 +1,82 @@
 {
-    "azul": {
-        "prefix": "azul",
-        "body": "blue;",
-        "description": "Cor azul."
-    },
-    "vermelho": {
-        "prefix": "vermelho",
-        "body": "red;",
-        "description": "Cor vermelha."
-    },
-    "cor": {
-        "prefix": "cor",
-        "body": "color:",
-        "description": "Define a cor de primeiro plano de um texto."
-    },
-    "cor fundo": {
-        "prefix": "cor fundo",
+    "background-color": {
         "body": "background-color:",
-        "description": "Define a cor de fundo."
+        "description": "Define a cor de fundo.",
+        "prefix": "cor fundo"
     },
-    "borda": {
-        "prefix": "borda",
+    "blue": {
+        "body": "blue;",
+        "description": "Cor azul.",
+        "prefix": "azul"
+    },
+    "border": {
         "body": "border: 1px solid black;",
-        "description": "Define a borda de 1px solida e preta."
+        "description": "Define a borda de 1px solida e preta.",
+        "prefix": "borda"
     },
+    "center": {
+        "body": "center;",
+        "description": "Define o alinhamento como centro.",
+        "prefix": "meio"
+    },
+    "color": {
+        "body": "color:",
+        "description": "Define a cor de primeiro plano de um texto.",
+        "prefix": "cor"
+    },
+    "display": {
+        "body": "display:",
+        "description": "Define o modo de exibição.",
+        "prefix": "exibição"
+    },
+    "font-family": {
+        "body": "font-family",
+        "description": "Define a família da fonte.",
+        "prefix": "fonte família"
+    },
+    "font-size": {
+        "body": "font-size",
+        "description": "Define o tamanho da fonte.",
+        "prefix": "fonte tamanho"
+    },
+    "letter-spacing": {
+        "body": "letter-spacing:",
+        "description": "Define o espaçamento entre letras.",
+        "prefix": "espaço letras"
+    },
+    "line-height": {
+        "body": "line-height:",
+        "description": "Define a altura da linha.",
+        "prefix": "linha altura"
+    },
+    "margin": {
+        "body": "margin:",
+        "description": "Define a margem.",
+        "prefix": "margem"
+    },
+    "padding": {
+        "body": "padding:",
+        "description": "Define o espaçamento interno.",
+        "prefix": "espaço interno"
+    },
+    "red": {
+        "body": "red;",
+        "description": "Cor vermelha.",
+        "prefix": "vermelho"
+    },
+    "text-align": {
+        "body": "text-align:",
+        "description": "Define o alinhamento do texto.",
+        "prefix": "texto alinhar"
+    },
+    "text-shadow": {
+        "body": "text-shadow:",
+        "description": "Define a sombra do texto.",
+        "prefix": "texto sombra"
+    },
+    "width": {
+        "body": "width:",
+        "description": "Define a largura.",
+        "prefix": "largura"
+    }
 }
