@@ -1,0 +1,27 @@
+{
+    "azul": {
+        "prefix": "azul",
+        "body": "blue;",
+        "description": "Cor azul."
+    },
+    "vermelho": {
+        "prefix": "vermelho",
+        "body": "red;",
+        "description": "Cor vermelha."
+    },
+    "cor": {
+        "prefix": "cor",
+        "body": "color:",
+        "description": "Define a cor de primeiro plano de um texto."
+    },
+    "cor fundo": {
+        "prefix": "cor fundo",
+        "body": "background-color:",
+        "description": "Define a cor de fundo."
+    },
+    "borda": {
+        "prefix": "borda",
+        "body": "border: 1px solid black;",
+        "description": "Define a borda de 1px solida e preta."
+    },
+}

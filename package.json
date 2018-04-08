@@ -1,0 +1,26 @@
+{
+    "name": "css-ptbr",
+    "displayName": "CSS em pt-BR",
+    "description": "Escreva CSS em português do Brasil",
+    "version": "0.0.1",
+    "publisher": "rghiggi",
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rodolfoghi/css-ptbr.git"
+      },
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "css",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
