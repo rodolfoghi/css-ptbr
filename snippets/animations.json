@@ -1,0 +1,37 @@
+{
+    "animation-delay": {
+        "body": "animation-delay:",
+        "description": "Especifíca quando uma animação deve começar.  Você pode começar a animação no futuro, imediatamente ou desde o  início, ou imediatamente e parcialmente através do ciclo de animação.",
+        "prefix": "animação atraso"
+    },
+    "animation-direction": {
+        "body": "animation-direction:",
+        "description": "Especifica se uma animação deve ser executada para frente, para trás ou alternada.",
+        "prefix": "animação direção"
+    },
+    "animation-duration": {
+        "body": "animation-duration:",
+        "description": "Especifica o tempo que uma animação deve demorar para concluir um ciclo.",
+        "prefix": "animação duração"
+    },
+    "animation-fill-mode": {
+        "body": "animation-fill-mode:",
+        "description": "Especifica como uma animação CSS deve aplicar estilos ao seu destino antes e depois que ele está sendo executado.",
+        "prefix": "animação modo aplicação estilo"
+    },
+    "animation-iteration-count": {
+        "body": "animation-iteration-count:",
+        "description": "Especifica o número de vezes que um ciclo de animação deve ser reproduzido antes de parar. Se vários valores forem especificados, cada vez que a animação for reproduzida, o próximo valor da lista será usado, retornando ao primeiro valor após o último ser usado.",
+        "prefix": "animação contador iterações"
+    },
+    "animation-name": {
+        "body": "animation-name:",
+        "description": "Especifica uma ou mais animações que devem ser aplicadas a um elemento. Cada nome indica uma regra @keyframes que define os valores da propriedade para a sequência de animação.",
+        "prefix": "animação nome"
+    },
+    "animation-play-state": {
+        "body": "animation-play-state:",
+        "description": "Especifica se uma animação está sendo executada ou pausada.",
+        "prefix": "animação status"
+    }
+}

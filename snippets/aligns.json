@@ -1,0 +1,17 @@
+{
+    "align-content": {
+        "body": "align-content:",
+        "description": "Alinha linhas flexíveis de containers dentro de um container quando há espaço extra em eixo transversal.",
+        "prefix": "alinhar conteúdo"
+    },
+    "align-items": {
+        "body": "align-items:",
+        "description": "Define como o espaço é distribuido entre e ao redor dos itens dentro de um container flexível.",
+        "prefix": "alinhar itens"
+    },
+    "align-self": {
+        "body": "align-self:",
+        "description": "Sobrescreve o que foi definido em 'alinhar itens' no container.",
+        "prefix": "alinhar-se"
+    }
+}

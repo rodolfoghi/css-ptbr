@@ -1,109 +1,4 @@
 {
-    "align-content": {
-        "body": "align-content:",
-        "description": "Alinha linhas flexíveis de containers dentro de um container quando há espaço extra em eixo transversal.",
-        "prefix": "alinhar conteúdo"
-    },
-    "align-items": {
-        "body": "align-items:",
-        "description": "Define como o espaço é distribuido entre e ao redor dos itens dentro de um container flexível.",
-        "prefix": "alinhar itens"
-    },
-    "align-self": {
-        "body": "align-self:",
-        "description": "Sobrescreve o que foi definido em 'alinhar itens' no container.",
-        "prefix": "alinhar-se"
-    },
-    "animation-delay": {
-        "body": "animation-delay:",
-        "description": "Especifíca quando uma animação deve começar.  Você pode começar a animação no futuro, imediatamente ou desde o  início, ou imediatamente e parcialmente através do ciclo de animação.",
-        "prefix": "animação atraso"
-    },
-    "animation-direction": {
-        "body": "animation-direction:",
-        "description": "Especifica se uma animação deve ser executada para frente, para trás ou alternada.",
-        "prefix": "animação direção"
-    },
-    "animation-duration": {
-        "body": "animation-duration:",
-        "description": "Especifica o tempo que uma animação deve demorar para concluir um ciclo.",
-        "prefix": "animação duração"
-    },
-    "animation-fill-mode": {
-        "body": "animation-fill-mode:",
-        "description": "Especifica como uma animação CSS deve aplicar estilos ao seu destino antes e depois que ele está sendo executado.",
-        "prefix": "animação modo aplicação estilo"
-    },
-    "animation-iteration-count": {
-        "body": "animation-iteration-count:",
-        "description": "Especifica o número de vezes que um ciclo de animação deve ser reproduzido antes de parar. Se vários valores forem especificados, cada vez que a animação for reproduzida, o próximo valor da lista será usado, retornando ao primeiro valor após o último ser usado.",
-        "prefix": "animação contador iterações"
-    },
-    "animation-name": {
-        "body": "animation-name:",
-        "description": "Especifica uma ou mais animações que devem ser aplicadas a um elemento. Cada nome indica uma regra @keyframes que define os valores da propriedade para a sequência de animação.",
-        "prefix": "animação nome"
-    },
-    "animation-play-state": {
-        "body": "animation-play-state:",
-        "description": "Especifica se uma animação está sendo executada ou pausada.",
-        "prefix": "animação status"
-    },
-    "background-attachment": {
-        "body": "background-attachment:",
-        "description": "Se um background-image é especificado, a propriedade CSS background-attachment determina se aquela posição da imagem é fixa com o viewport, ou se irá rolar juntamente com o seu bloco.",
-        "prefix": "fundo anexo"
-    },
-    "background-blend-mode": {
-        "body": "background-blend-mode:",
-        "description": "Descreve como as imagens de fundo do elemento devem se misturar entre si e a cor de fundo do elemento.",
-        "prefix": "fundo modo mistura"
-    },
-    "background-clip": {
-        "body": "background-clip:",
-        "description": "Especifica se o fundo de um elemento, seja cor ou imagem, se extende debaixo de sua borda.",
-        "prefix": "fundo extender na borda"
-    },
-    "background-color": {
-        "body": "background-color:",
-        "description": "Define a cor de fundo.",
-        "prefix": "fundo cor"
-    },
-    "background-image": {
-        "body": "background-image:",
-        "description": "Define a imagem de fundo.",
-        "prefix": "fundo imagem"
-    },
-    "background-origin": {
-        "body": "background-origin:",
-        "description": "Define a área de posicionamento do plano de fundo, isto é, a ponto de origem de uma imagem específica usando a propriedade background-image.",
-        "prefix": "fundo origem"
-    },
-    "background-position": {
-        "body": "background-position:",
-        "description": "Define a posição inicial, relativa a posição de fundo na camada definido por background-origin, para cada background image definifo.",
-        "prefix": "fundo posição"
-    },
-    "background-repeat": {
-        "body": "background-repeat:",
-        "description": "Define como a imagem de fundo é repetida.",
-        "prefix": "fundo repetir"
-    },
-    "background-size": {
-        "body": "background-size:",
-        "description": "Especifica o tamanho das imagens de fundo.",
-        "prefix": "fundo tamanho"
-    },
-    "black": {
-        "body": "black;",
-        "description": "Cor preta.",
-        "prefix": "preto"
-    },
-    "blue": {
-        "body": "blue;",
-        "description": "Cor azul.",
-        "prefix": "azul"
-    },
     "border": {
         "body": "border: 1px solid black;",
         "description": "Define a borda de 1px solida e preta.",
@@ -134,16 +29,6 @@
         "description": "Define o tamanho da fonte.",
         "prefix": "fonte tamanho"
     },
-    "gray": {
-        "body": "gray;",
-        "description": "Cor cinza.",
-        "prefix": "cinza"
-    },
-    "green": {
-        "body": "green;",
-        "description": "Cor verde.",
-        "prefix": "verde"
-    },
     "height": {
         "body": "height:",
         "description": "Define a altura.",
@@ -164,30 +49,15 @@
         "description": "Define a margem.",
         "prefix": "margem"
     },
-    "orange": {
-        "body": "orange;",
-        "description": "Cor laranja.",
-        "prefix": "laranja"
-    },
     "padding": {
         "body": "padding:",
         "description": "Define o espaçamento interno.",
         "prefix": "espaço interno"
     },
-    "pink": {
-        "body": "pink;",
-        "description": "Cor rosa.",
-        "prefix": "rosa"
-    },
     "position": {
         "body": "position:",
         "description": "Define a posicão.",
         "prefix": "posição"
-    },
-    "red": {
-        "body": "red;",
-        "description": "Cor vermelha.",
-        "prefix": "vermelho"
     },
     "text-align": {
         "body": "text-align:",
@@ -204,19 +74,9 @@
         "description": "Define como acontecerá a transição.",
         "prefix": "transição"
     },
-    "white": {
-        "body": "white;",
-        "description": "Cor branca.",
-        "prefix": "branco"
-    },
     "width": {
         "body": "width:",
         "description": "Define a largura.",
         "prefix": "largura"
-    },
-    "yellow": {
-        "body": "yellow;",
-        "description": "Cor amarelo.",
-        "prefix": "amarelo"
     }
 }

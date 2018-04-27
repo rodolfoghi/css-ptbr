@@ -3,7 +3,7 @@
     "displayName": "CSS em pt-BR",
     "description": "Escreva CSS em português do Brasil",
     "license": "SEE LICENSE IN LICENSE.md",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "publisher": "rghiggi",
     "icon": "icon.png",
     "repository": {
@@ -21,6 +21,22 @@
             {
                 "language": "css",
                 "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/aligns.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/animations.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/backgrounds.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/colors.json"
             }
         ]
     }

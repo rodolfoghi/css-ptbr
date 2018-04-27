@@ -1,0 +1,47 @@
+{
+    "background-attachment": {
+        "body": "background-attachment:",
+        "description": "Se um background-image é especificado, a propriedade CSS background-attachment determina se aquela posição da imagem é fixa com o viewport, ou se irá rolar juntamente com o seu bloco.",
+        "prefix": "fundo anexo"
+    },
+    "background-blend-mode": {
+        "body": "background-blend-mode:",
+        "description": "Descreve como as imagens de fundo do elemento devem se misturar entre si e a cor de fundo do elemento.",
+        "prefix": "fundo modo mistura"
+    },
+    "background-clip": {
+        "body": "background-clip:",
+        "description": "Especifica se o fundo de um elemento, seja cor ou imagem, se extende debaixo de sua borda.",
+        "prefix": "fundo extender na borda"
+    },
+    "background-color": {
+        "body": "background-color:",
+        "description": "Define a cor de fundo.",
+        "prefix": "fundo cor"
+    },
+    "background-image": {
+        "body": "background-image:",
+        "description": "Define a imagem de fundo.",
+        "prefix": "fundo imagem"
+    },
+    "background-origin": {
+        "body": "background-origin:",
+        "description": "Define a área de posicionamento do plano de fundo, isto é, a ponto de origem de uma imagem específica usando a propriedade background-image.",
+        "prefix": "fundo origem"
+    },
+    "background-position": {
+        "body": "background-position:",
+        "description": "Define a posição inicial, relativa a posição de fundo na camada definido por background-origin, para cada background image definifo.",
+        "prefix": "fundo posição"
+    },
+    "background-repeat": {
+        "body": "background-repeat:",
+        "description": "Define como a imagem de fundo é repetida.",
+        "prefix": "fundo repetir"
+    },
+    "background-size": {
+        "body": "background-size:",
+        "description": "Especifica o tamanho das imagens de fundo.",
+        "prefix": "fundo tamanho"
+    }
+}

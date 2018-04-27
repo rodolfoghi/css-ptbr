@@ -1,0 +1,47 @@
+{
+    "black": {
+        "body": "black;",
+        "description": "Cor preta.",
+        "prefix": "preto"
+    },
+    "blue": {
+        "body": "blue;",
+        "description": "Cor azul.",
+        "prefix": "azul"
+    },
+    "gray": {
+        "body": "gray;",
+        "description": "Cor cinza.",
+        "prefix": "cinza"
+    },
+    "green": {
+        "body": "green;",
+        "description": "Cor verde.",
+        "prefix": "verde"
+    },
+    "orange": {
+        "body": "orange;",
+        "description": "Cor laranja.",
+        "prefix": "laranja"
+    },
+    "pink": {
+        "body": "pink;",
+        "description": "Cor rosa.",
+        "prefix": "rosa"
+    },
+    "red": {
+        "body": "red;",
+        "description": "Cor vermelha.",
+        "prefix": "vermelho"
+    },
+    "white": {
+        "body": "white;",
+        "description": "Cor branca.",
+        "prefix": "branco"
+    },
+    "yellow": {
+        "body": "yellow;",
+        "description": "Cor amarelo.",
+        "prefix": "amarelo"
+    }
+}
