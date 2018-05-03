@@ -1,4 +1,24 @@
 {
+    "aqua": {
+        "body": "aqua;",
+        "description": "Cor azul-piscina.",
+        "prefix": "azul-piscina"
+    },
+    "aquamarine": {
+        "body": "aquamarine;",
+        "description": "Cor verde-mar.",
+        "prefix": "verde-mar"
+    },
+    "azure": {
+        "body": "azure;",
+        "description": "Cor azul-celeste.",
+        "prefix": "azul-celeste"
+    },
+    "biege": {
+        "body": "biege;",
+        "description": "Cor bege.",
+        "prefix": "bege"
+    },
     "black": {
         "body": "black;",
         "description": "Cor preta.",
@@ -8,6 +28,66 @@
         "body": "blue;",
         "description": "Cor azul.",
         "prefix": "azul"
+    },
+    "brown": {
+        "body": "brown;",
+        "description": "Cor marrom.",
+        "prefix": "marrom"
+    },
+    "chartreuse": {
+        "body": "chartreuse;",
+        "description": "Cor verde-limão.",
+        "prefix": "verde-limão"
+    },
+    "chocolate": {
+        "body": "chocolate;",
+        "description": "Cor chocolate.",
+        "prefix": "chocolate"
+    },
+    "coral": {
+        "body": "coral;",
+        "description": "Cor coral.",
+        "prefix": "coral"
+    },
+    "crimson": {
+        "body": "crimson;",
+        "description": "Cor carmim.",
+        "prefix": "carmim"
+    },
+    "cyan": {
+        "body": "cyan;",
+        "description": "Cor ciano.",
+        "prefix": "ciano"
+    },
+    "darkblue": {
+        "body": "darkblue;",
+        "description": "Cor azul-escuro.",
+        "prefix": "azul-escuro"
+    },
+    "darkgreen": {
+        "body": "darkgreen;",
+        "description": "Cor verde-escuro.",
+        "prefix": "verde-escuro"
+    },
+    "darkgrey": {
+        "body": "darkgrey;",
+        "description": "Cor cinza-escuro.",
+        "prefix": "cinza-escuro"
+    },
+    "darkorange": {
+        "body": "darkorange;",
+        "description": "Cor laranja-escuro.",
+        "prefix": "laranja-escuro"
+    },
+    "fuchsia": {
+        "body": "fuchsia;",
+        "description": "Cor fúcsia.",
+        "prefix": "fúcsia"
+    },
+    "gold": {
+        "body": "gold;",
+        "description": "Cor ouro.",
+        "prefix": "ouro"
     },
     "gray": {
         "body": "gray;",
@@ -19,6 +99,41 @@
         "description": "Cor verde.",
         "prefix": "verde"
     },
+    "lime": {
+        "body": "lime;",
+        "description": "Cor limão.",
+        "prefix": "limão"
+    },
+    "lightgray": {
+        "body": "lightgray;",
+        "description": "Cor cinza-claro.",
+        "prefix": "cinza-claro"
+    },
+    "lightblue": {
+        "body": "lightblue;",
+        "description": "Cor azul-claro.",
+        "prefix": "azul-claro"
+    },
+    "lightgreen": {
+        "body": "lightgreen;",
+        "description": "Cor verde-claro.",
+        "prefix": "verde-claro"
+    },
+    "maroon": {
+        "body": "maroon;",
+        "description": "Cor bordô.",
+        "prefix": "bordô"
+    },
+    "navy": {
+        "body": "navy;",
+        "description": "Cor azul-marinho.",
+        "prefix": "azul-marinho"
+    },
+    "olive": {
+        "body": "olive;",
+        "description": "Cor verde-oliva.",
+        "prefix": "verde-oliva"
+    },
     "orange": {
         "body": "orange;",
         "description": "Cor laranja.",
@@ -29,10 +144,40 @@
         "description": "Cor rosa.",
         "prefix": "rosa"
     },
+    "purple": {
+        "body": "purple;",
+        "description": "Cor roxo.",
+        "prefix": "roxo"
+    },
     "red": {
         "body": "red;",
         "description": "Cor vermelha.",
         "prefix": "vermelho"
+    },
+    "royalblue": {
+        "body": "royalblue;",
+        "description": "Cor azul-royal.",
+        "prefix": "azul-royal"
+    },
+    "salmon": {
+        "body": "salmon;",
+        "description": "Cor salmão.",
+        "prefix": "salmão"
+    },
+    "silver": {
+        "body": "silver;",
+        "description": "Cor prata.",
+        "prefix": "prata"
+    },
+    "snow": {
+        "body": "snow;",
+        "description": "Cor neve.",
+        "prefix": "neve"
+    },
+    "teal": {
+        "body": "teal;",
+        "description": "Cor azul-petróleo.",
+        "prefix": "azul-petróleo"
     },
     "white": {
         "body": "white;",
