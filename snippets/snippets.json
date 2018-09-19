@@ -1,9 +1,4 @@
 {
-    "border": {
-        "body": "border: 1px solid black;",
-        "description": "Define a borda de 1px solida e preta.",
-        "prefix": "borda"
-    },
     "center": {
         "body": "center;",
         "description": "Define o alinhamento como centro.",
