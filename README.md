@@ -16,7 +16,7 @@ Para instalar [clique aqui](https://marketplace.visualstudio.com/items?itemName=
 
 ## Contribuindo
 
-[Veja aqui como contribuir](https://github.com/rodolfoghi/css-ptbr/blob/master/CONTRIBUTING)
+[Veja aqui como contribuir](https://github.com/rodolfoghi/css-ptbr/blob/master/CONTRIBUTING.md)
 
 ## Licença
 
