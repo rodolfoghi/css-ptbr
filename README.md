@@ -2,9 +2,7 @@
 
 Uma extensão para Visual Studio Code que permite escrever propriedades e valores CSS em português Brasileiro.
 
-
-![](https://i.imgur.com/IN3eriS.gif?1)
-
+![Simples demonstração do CSS pt-BR em ação](https://i.imgur.com/IN3eriS.gif?1)
 
 ## Motivação
 
@@ -18,11 +16,8 @@ Para instalar [clique aqui](https://marketplace.visualstudio.com/items?itemName=
 
 ## Contribuindo
 
-Existem várias formas para você contribuir com este repositório:
-
-* Ideias, solicitação de recursos e bugs: Nós estamos abertos a todas as ideias e queremos nos livrar dos bugs! Use as [Issues](https://github.com/rodolfoghi/css-ptbr/issues) para relatar um novo problema, expressar suas ideias ou contribuir com os tópicos existentes.
-* Documentação: Encontrou um erro de digitação ou frases com palavras estranhas? Envie um PR!
-* Código: contribua com correções de bugs, inclusão de novos [snnipets](https://github.com/rodolfoghi/css-ptbr/blob/master/snippets/snippets.json).
+[Veja aqui como contribuir](https://github.com/rodolfoghi/css-ptbr/blob/master/CONTRIBUTING)
 
 ## Licença
+
 [MIT](https://github.com/rodolfoghi/css-ptbr/blob/master/LICENSE)
