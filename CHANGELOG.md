@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.0.9] - 2019-02-27
+
+- [Add hyphens to translated property names](https://github.com/rodolfoghi/css-ptbr/issues/6)
+
 ## [0.0.8] - 2018-09-18
 
 - [Borders](https://github.com/rodolfoghi/css-ptbr/commit/26af3e5d0424d9f8acc05b69cffea84fb7a146a9)
