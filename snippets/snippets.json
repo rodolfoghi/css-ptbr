@@ -17,12 +17,12 @@
     "font-family": {
         "body": "font-family",
         "description": "Define a família da fonte.",
-        "prefix": "fonte família"
+        "prefix": ["fonte família", "família-de-fonte"]
     },
     "font-size": {
         "body": "font-size",
         "description": "Define o tamanho da fonte.",
-        "prefix": "fonte tamanho"
+        "prefix": ["fonte tamanho", "tamanho-da-fonte"]
     },
     "height": {
         "body": "height:",
@@ -32,12 +32,12 @@
     "letter-spacing": {
         "body": "letter-spacing:",
         "description": "Define o espaçamento entre letras.",
-        "prefix": "espaço letras"
+        "prefix": ["espaço letras", "espaçamento-entre-letras"]
     },
     "line-height": {
         "body": "line-height:",
         "description": "Define a altura da linha.",
-        "prefix": "linha altura"
+        "prefix": ["linha altura", "altura-da-linha"]
     },
     "margin": {
         "body": "margin:",
@@ -47,7 +47,7 @@
     "padding": {
         "body": "padding:",
         "description": "Define o espaçamento interno.",
-        "prefix": "espaço interno"
+        "prefix": ["espaço interno", "espaço-interno"]
     },
     "position": {
         "body": "position:",
@@ -57,12 +57,12 @@
     "text-align": {
         "body": "text-align:",
         "description": "Define o alinhamento do texto.",
-        "prefix": "texto alinhar"
+        "prefix": ["texto alinhar", "alinhar-texto"]
     },
     "text-shadow": {
         "body": "text-shadow:",
         "description": "Define a sombra do texto.",
-        "prefix": "texto sombra"
+        "prefix": ["texto sombra", "sombreamento-do-texto"]
     },
     "transition": {
         "body": "transition:",
