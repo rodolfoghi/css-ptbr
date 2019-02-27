@@ -7,121 +7,121 @@
     "border-bottom": {
         "body": "border-bottom:",
         "description": "Define a borda inferior",
-        "prefix": "borda inferior"
+        "prefix": ["borda inferior", "borda-inferior"]
     },
     "border-bottom-color": {
         "body": "border-bottom-color:",
         "description": "Define a cor da borda inferior",
-        "prefix": "borda inferior cor"
+        "prefix": ["borda inferior cor", "cor-da-borda-inferior"]
     },
     "border-bottom-left-radius": {
         "body": "border-bottom-left-radius:",
         "description": "Define o raio do canto inferior esquerdo",
-        "prefix": "borda raio canto inferior esquerdo"
+        "prefix": ["borda raio canto inferior esquerdo", "raio-do-canto-inferior-esquerdo-da-borda"]
     },
     "border-bottom-right-radius": {
         "body": "border-bottom-right-radius:",
         "description": "Define o raio do canto inferior direito",
-        "prefix": "borda raio canto inferior direito"
+        "prefix": ["borda raio canto inferior direito", "raio-do-canto-inferior-direito-da-borda"]
     },
     "border-bottom-style": {
         "body": "border-bottom-style:",
         "description": "Define o estilo da borda inferior",
-        "prefix": "borda inferior estilo"
+        "prefix": ["borda inferior estilo", "estilo-da-borda-inferior"]
     },
     "border-bottom-width": {
         "body": "border-bottom-width:",
         "description": "Define o comprimento da borda inferior",
-        "prefix": "borda inferior comprimento"
+        "prefix": ["borda inferior comprimento", "comprimento-da-borda-inferior"]
     },
     "border-color": {
         "body": "border-color:",
         "description": "Define a cor da borda",
-        "prefix": "borda cor"
+        "prefix": ["borda cor", "cor-da-borda"]
     },
     "border-left": {
         "body": "border-left:",
         "description": "Define a borda esquerda",
-        "prefix": "borda esquerda"
+        "prefix": ["borda esquerda", "borda-esquerda"]
     },
     "border-left-color": {
         "body": "border-left-color:",
         "description": "Define a cor da borda esquerda",
-        "prefix": "borda esquerda cor"
+        "prefix": ["borda esquerda cor", "cor-da-borda-esquerda"]
     },
     "border-left-style": {
         "body": "border-left-style:",
         "description": "Define o estilo da borda esquerda",
-        "prefix": "borda esquerda estilo"
+        "prefix": ["borda esquerda estilo", "estilo-da-borda-esquerda"]
     },
     "border-left-width": {
         "body": "border-left-width:",
         "description": "Define o comprimento da borda esquerda",
-        "prefix": "borda esquerda comprimento"
+        "prefix": ["borda esquerda comprimento", "comprimento-da-borda-esquerda"]
     },
     "border-radius": {
         "body": "border-radius:",
         "description": "Define o raio dos cantos",
-        "prefix": "borda raio"
+        "prefix": ["borda raio", "raio-da-borda"]
     },
     "border-right": {
         "body": "border-right:",
         "description": "Define a borda direita",
-        "prefix": "borda direita"
+        "prefix": ["borda direita", "borda-direita"]
     },
     "border-right-color": {
         "body": "border-right-color:",
         "description": "Define a cor da borda direita",
-        "prefix": "borda direita cor"
+        "prefix": ["borda direita cor", "cor-da-borda-direita"]
     },
     "border-right-style": {
         "body": "border-right-style:",
         "description": "Define o estilo da borda direita",
-        "prefix": "borda direita estilo"
+        "prefix": ["borda direita estilo", "estilo-da-borda-direita"]
     },
     "border-right-width": {
         "body": "border-right-width:",
         "description": "Define o comprimento da borda direita",
-        "prefix": "borda direita comprimento"
+        "prefix": ["borda direita comprimento", "comprimento-da-borda-direita"]
     },
     "border-style": {
         "body": "border-style:",
         "description": "Define o estilo das 4 bordas",
-        "prefix": "borda estilo"
+        "prefix": ["borda estilo", "estilo-da-borda"]
     },
     "border-top": {
         "body": "border-top:",
         "description": "Define a borda superior",
-        "prefix": "border-top"
+        "prefix": ["borda superior", "borda-superior"]
     },
     "border-top-color": {
         "body": "border-top-color:",
         "description": "Define a cor da borda superior",
-        "prefix": "borda superior cor"
+        "prefix": ["borda superior cor", "cor-da-borda-superior"]
     },
     "border-top-left-radius": {
         "body": "border-top-left-radius:",
         "description": "Define o raio do canto superior esquerdo",
-        "prefix": "borda raio canto superior esquerdo"
+        "prefix": ["borda raio canto superior esquerdo", "raio-do-canto-superior-esquerdo-da-borda"]
     },
     "border-top-right-radius": {
         "body": "border-top-right-radius:",
         "description": "Define o raio do canto superior direito",
-        "prefix": "borda raio canto superior direito"
+        "prefix": ["borda raio canto superior direito", "raio-do-canto-superior-direito-da-borda"]
     },
     "border-top-style": {
         "body": "border-top-style:",
         "description": "Define o estilo da borda superior",
-        "prefix": "borda superior estilo"
+        "prefix": ["borda superior estilo", "estilo-da-borda-superior"]
     },
     "border-top-width": {
         "body": "border-top-width:",
         "description": "Define o comprimento da borda superior",
-        "prefix": "borda superior comprimento"
+        "prefix": ["borda superior comprimento", "comprimento-da-borda-superior"]
     },
     "border-width": {
         "body": "border-width:",
         "description": "Define o comprimento das 4 bordas",
-        "prefix": "borda comprimento"
-    },
+        "prefix": ["borda comprimento", "comprimento-da-borda"]
+    }
 }
