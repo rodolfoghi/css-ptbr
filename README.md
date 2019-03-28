@@ -33,122 +33,122 @@ Para instalar [clique aqui](https://marketplace.visualstudio.com/items?itemName=
 6. [Snippets](#snippets)
 
 ## Aligns
-| Propriedade | Prefix | Status
-| --- | --- | --- |
-| align-content | alinhar conteúdo / alinhar-conteúdo | :heavy_check_mark: |
-| align-items | alinhar itens / alinhar-itens | :heavy_check_mark: |
-| align-self | alinhar-se | :heavy_check_mark: |
+| Propriedade | Prefix |
+| --- | --- |
+| align-content | alinhar conteúdo / alinhar-conteúdo |
+| align-items | alinhar itens / alinhar-itens |
+| align-self | alinhar-se |
 
 ## Animações
-| Propriedade | Prefix | Status
-| --- | --- | --- |
-| animation-delay | animação atraso / atraso-da-animação | :heavy_check_mark: |
-| animation-direction | animação direção / direção-da-animação | :heavy_check_mark: |
-| animation-duration | animação duração / duração-da-animação | :heavy_check_mark: |
-| animation-fill-mode | animação modo aplicação estilo / modo-de-preenchimento-da-animação | :heavy_check_mark: |
-| animation-iteration-count | animação contador iterações / contador-de-iteração-da-animação | :heavy_check_mark: |
-| animation-name | animação nome / nome-da-animação | :heavy_check_mark: |
-| animation-play-state | animação status / status-da-animação | :heavy_check_mark: |
+| Propriedade | Prefix |
+| --- | --- |
+| animation-delay | animação atraso / atraso-da-animação |
+| animation-direction | animação direção / direção-da-animação |
+| animation-duration | animação duração / duração-da-animação |
+| animation-fill-mode | animação modo aplicação estilo / modo-de-preenchimento-da-animação |
+| animation-iteration-count | animação contador iterações / contador-de-iteração-da-animação |
+| animation-name | animação nome / nome-da-animação |
+| animation-play-state | animação status / status-da-animação |
 
 ## Backgrounds
-| Propriedade | Prefix | Status
-| --- | --- | --- |
-| background-attachment | fundo anexo / fixação-do-fundo | :heavy_check_mark: |
-| background-blend-mode | fundo modo mistura / modo-de-mistura-do-fundo | :heavy_check_mark: |
-| background-clip | fundo extender na borda / extensão-do-fundo | :heavy_check_mark: |
-| background-color | fundo cor / cor-de-fundo | :heavy_check_mark: |
-| background-image | fundo imagem / imagem-de-fundo | :heavy_check_mark: |
-| background-origin | fundo origem / ponto-de-origem-do-fundo | :heavy_check_mark: |
-| background-position | fundo posição / posição-do-fundo | :heavy_check_mark: |
-| background-repeat | fundo repetir / repetição-do-fundo | :heavy_check_mark: |
-| background-size | fundo tamanho / tamanho-do-fundo | :heavy_check_mark: |
+| Propriedade | Prefix |
+| --- | --- |
+| background-attachment | fundo anexo / fixação-do-fundo |
+| background-blend-mode | fundo modo mistura / modo-de-mistura-do-fundo |
+| background-clip | fundo extender na borda / extensão-do-fundo |
+| background-color | fundo cor / cor-de-fundo |
+| background-image | fundo imagem / imagem-de-fundo |
+| background-origin | fundo origem / ponto-de-origem-do-fundo |
+| background-position | fundo posição / posição-do-fundo |
+| background-repeat | fundo repetir / repetição-do-fundo |
+| background-size | fundo tamanho / tamanho-do-fundo |
 
 ## Bordas
-| Propriedade | Prefix | Status
-| --- | --- | --- |
-| border | borda | :heavy_check_mark: |
-| border-bottom | borda inferior / borda-inferior | :heavy_check_mark: |
-| border-bottom-color | borda inferior cor / cor-da-borda-inferior | :heavy_check_mark: |
-| border-bottom-left-radius | borda raio canto inferior esquerdo / raio-do-canto-inferior-esquerdo-da-borda | :heavy_check_mark: |
-| border-bottom-right-radius | borda raio canto inferior direito / raio-do-canto-inferior-direito-da-borda | :heavy_check_mark: |
-| border-bottom-style | borda inferior estilo / estilo-da-borda-inferior | :heavy_check_mark: |
-| border-bottom-width | borda inferior comprimento / comprimento-da-borda-inferior | :heavy_check_mark: |
-| border-color | borda cor / cor-da-borda | :heavy_check_mark: |
-| border-left | borda esquerda / borda-esquerda | :heavy_check_mark: |
-| border-left-color | borda esquerda cor / cor-da-borda-esquerda | :heavy_check_mark: |
-| border-left-style | borda esquerda estilo / estilo-da-borda-esquerda | :heavy_check_mark: |
-| border-left-width | borda esquerda comprimento / comprimento-da-borda-esquerda | :heavy_check_mark: |
-| border-radius | borda raio / raio-da-borda | :heavy_check_mark: |
-| border-right | borda direita / borda-direita | :heavy_check_mark: |
-| border-right-color | borda direita cor / cor-da-borda-direita | :heavy_check_mark: |
-| border-right-style | borda direita estilo / estilo-da-borda-direita | :heavy_check_mark: |
-| border-right-width | borda direita comprimento / comprimento-da-borda-direita | :heavy_check_mark: |
-| border-style | borda estilo / estilo-da-borda | :heavy_check_mark: |
-| border-top | borda superior / borda-superior | :heavy_check_mark: |
-| border-top-color | borda superior cor / cor-da-borda-superior | :heavy_check_mark: |
-| border-top-left-radius | borda raio canto superior esquerdo / raio-do-canto-superior-esquerdo-da-borda | :heavy_check_mark: |
-| border-top-right-radius | borda raio canto superior direito / raio-do-canto-superior-direito-da-borda | :heavy_check_mark: |
-| border-top-style | borda superior estilo / estilo-da-borda-superior | :heavy_check_mark: |
-| border-top-width | borda superior comprimento / comprimento-da-borda-superior | :heavy_check_mark: |
-| border-width | borda comprimento / comprimento-da-borda | :heavy_check_mark: |
+| Propriedade | Prefix |
+| --- | --- |
+| border | borda |
+| border-bottom | borda inferior / borda-inferior |
+| border-bottom-color | borda inferior cor / cor-da-borda-inferior |
+| border-bottom-left-radius | borda raio canto inferior esquerdo / raio-do-canto-inferior-esquerdo-da-borda |
+| border-bottom-right-radius | borda raio canto inferior direito / raio-do-canto-inferior-direito-da-borda |
+| border-bottom-style | borda inferior estilo / estilo-da-borda-inferior |
+| border-bottom-width | borda inferior comprimento / comprimento-da-borda-inferior |
+| border-color | borda cor / cor-da-borda |
+| border-left | borda esquerda / borda-esquerda |
+| border-left-color | borda esquerda cor / cor-da-borda-esquerda |
+| border-left-style | borda esquerda estilo / estilo-da-borda-esquerda |
+| border-left-width | borda esquerda comprimento / comprimento-da-borda-esquerda |
+| border-radius | borda raio / raio-da-borda |
+| border-right | borda direita / borda-direita |
+| border-right-color | borda direita cor / cor-da-borda-direita |
+| border-right-style | borda direita estilo / estilo-da-borda-direita |
+| border-right-width | borda direita comprimento / comprimento-da-borda-direita |
+| border-style | borda estilo / estilo-da-borda |
+| border-top | borda superior / borda-superior |
+| border-top-color | borda superior cor / cor-da-borda-superior |
+| border-top-left-radius | borda raio canto superior esquerdo / raio-do-canto-superior-esquerdo-da-borda |
+| border-top-right-radius | borda raio canto superior direito / raio-do-canto-superior-direito-da-borda |
+| border-top-style | borda superior estilo / estilo-da-borda-superior |
+| border-top-width | borda superior comprimento / comprimento-da-borda-superior |
+| border-width | borda comprimento / comprimento-da-borda |
 
 ## Cores
-| Propriedade | Prefix | Status
-| --- | --- | --- |
-| aqua | azul-piscina | :heavy_check_mark: |
-| aquamarine | verde-mar | :heavy_check_mark: |
-| azure | azul-celeste | :heavy_check_mark: |
-| biege | bege | :heavy_check_mark: |
-| black | preto | :heavy_check_mark: |
-| blue | azul | :heavy_check_mark: |
-| brown | marrom | :heavy_check_mark: |
-| chartreuse | verde-limão | :heavy_check_mark: |
-| chocolate | chocolate | :heavy_check_mark: |
-| coral | coral | :heavy_check_mark: |
-| crimson | carmim | :heavy_check_mark: |
-| cyan | ciano | :heavy_check_mark: |
-| darkblue | azul-escuro | :heavy_check_mark: |
-| darkgreen | verde-escuro | :heavy_check_mark: |
-| darkgrey | cinza-escuro | :heavy_check_mark: |
-| darkorange | laranja-escuro | :heavy_check_mark: |
-| fuchsia | fúcsia | :heavy_check_mark: |
-| gold | ouro | :heavy_check_mark: |
-| gray | cinza | :heavy_check_mark: |
-| green | verde | :heavy_check_mark: |
-| lime | limão | :heavy_check_mark: |
-| lightgray | cinza-claro | :heavy_check_mark: |
-| lightblue | azul-claro | :heavy_check_mark: |
-| lightgreen | verde-claro | :heavy_check_mark: |
-| maroon | bordô | :heavy_check_mark: |
-| navy | azul-marinho | :heavy_check_mark: |
-| olive | verde-oliva | :heavy_check_mark: |
-| orange | laranja | :heavy_check_mark: |
-| pink | rosa | :heavy_check_mark: |
-| purple | roxo | :heavy_check_mark: |
-| red | vermelho | :heavy_check_mark: |
-| royalblue | azul-royal | :heavy_check_mark: |
-| salmon | salmão | :heavy_check_mark: |
-| silver | prata | :heavy_check_mark: |
-| snow | neve | :heavy_check_mark: |
-| teal | azul-petróleo | :heavy_check_mark: |
-| white | branco | :heavy_check_mark: |
-| yellow | amarelo | :heavy_check_mark: |
+| Propriedade | Prefix |
+| --- | --- |
+| aqua | azul-piscina |
+| aquamarine | verde-mar |
+| azure | azul-celeste |
+| biege | bege |
+| black | preto |
+| blue | azul |
+| brown | marrom |
+| chartreuse | verde-limão |
+| chocolate | chocolate |
+| coral | coral |
+| crimson | carmim |
+| cyan | ciano |
+| darkblue | azul-escuro |
+| darkgreen | verde-escuro |
+| darkgrey | cinza-escuro |
+| darkorange | laranja-escuro |
+| fuchsia | fúcsia |
+| gold | ouro |
+| gray | cinza |
+| green | verde |
+| lime | limão |
+| lightgray | cinza-claro |
+| lightblue | azul-claro |
+| lightgreen | verde-claro |
+| maroon | bordô |
+| navy | azul-marinho |
+| olive | verde-oliva |
+| orange | laranja |
+| pink | rosa |
+| purple | roxo |
+| red | vermelho |
+| royalblue | azul-royal |
+| salmon | salmão |
+| silver | prata |
+| snow | neve |
+| teal | azul-petróleo |
+| white | branco |
+| yellow | amarelo |
 
 ## Snippets
-| Propriedade | Prefix | Status
-| --- | --- | --- |
-| center | meio | :heavy_check_mark: |
-| color | cor | :heavy_check_mark: |
-| display | exibição | :heavy_check_mark: |
-| font-family | fonte família / família-de-fonte | :heavy_check_mark: |
-| font-size | fonte tamanho / tamanho-da-fonte | :heavy_check_mark: |
-| height | altura | :heavy_check_mark: |
-| letter-spacing | espaço letras / espaçamento-entre-letras | :heavy_check_mark: |
-| line-height | linha altura / altura-da-linha | :heavy_check_mark: |
-| margin | margem | :heavy_check_mark: |
-| padding | espaço interno / espaço-interno | :heavy_check_mark: |
-| position | posição | :heavy_check_mark: |
-| text-align | texto alinhar / alinhar-texto | :heavy_check_mark: |
-| text-shadow | texto sombra / sombreamento-do-texto | :heavy_check_mark: |
-| transition | transição | :heavy_check_mark: |
-| width | largura | :heavy_check_mark: |
+| Propriedade | Prefix |
+| --- | --- |
+| center | meio |
+| color | cor |
+| display | exibição |
+| font-family | fonte família / família-de-fonte |
+| font-size | fonte tamanho / tamanho-da-fonte |
+| height | altura |
+| letter-spacing | espaço letras / espaçamento-entre-letras |
+| line-height | linha altura / altura-da-linha |
+| margin | margem |
+| padding | espaço interno / espaço-interno |
+| position | posição |
+| text-align | texto alinhar / alinhar-texto |
+| text-shadow | texto sombra / sombreamento-do-texto |
+| transition | transição |
+| width | largura |
