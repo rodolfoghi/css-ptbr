@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.0.10] - 2019-03-29
+
+- [Documentação: lista de opções disponíveis](https://github.com/rodolfoghi/css-ptbr/pull/8)
+
 ## [0.0.9] - 2019-02-27
 
 - [Add hyphens to translated property names](https://github.com/rodolfoghi/css-ptbr/issues/6)
