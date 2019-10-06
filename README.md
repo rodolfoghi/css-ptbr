@@ -22,6 +22,11 @@ Para instalar [clique aqui](https://marketplace.visualstudio.com/items?itemName=
 
 [MIT](https://github.com/rodolfoghi/css-ptbr/blob/master/LICENSE)
 
+--
+## Qual a diferença entre o código gerado pela extensão e o código escrito manualmente?
+
+Nenhuma :), a extensão é apenas um autocompletar, por exemplo, você digita `largura` e ao pressionar enter o que você digitou é alterado para `width:`, simples assim!
+
 ---
 
 ## Opções Disponíveis
